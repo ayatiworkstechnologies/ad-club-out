@@ -1,0 +1,8 @@
+User-Agent: *
+Allow: /
+Disallow: /admin
+Disallow: /admin/
+Disallow: /ayurvedic-spa/thank-you
+
+Host: https://srisriwellbeingchennai.com
+Sitemap: https://srisriwellbeingchennai.com/sitemap.xml
