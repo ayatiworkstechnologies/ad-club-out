@@ -1,4 +1,0 @@
-:HL["/_next/static/chunks/01y34t7eyn1qt.css","style"]
-:HL["/_next/static/chunks/0z50gm315m80y.css","style"]
-:HL["/_next/static/media/Helmet_Regular-s.p.0o5.2o~frwws5.ttf","font",{"crossOrigin":"","type":"font/ttf"}]
-0:{"tree":{"name":"","param":null,"prefetchHints":16,"slots":{"children":{"name":"admin","param":null,"prefetchHints":0,"slots":{"children":{"name":"section","param":{"type":"d","key":"services","siblings":null},"prefetchHints":0,"slots":{"children":{"name":"__PAGE__","param":null,"prefetchHints":0,"slots":null}}}}}}},"staleTime":300,"buildId":"iF8HhS2j5NYYMWB4RzmpO"}
