@@ -1,0 +1,1 @@
+self.__SSG_MANIFEST=new Set(["\u002Fevents\u002F[eventSlug]","\u002Fforgot\u002Fpassword\u002Freset\u002F[id]","\u002Fgallery\u002F[id]"]);self.__SSG_MANIFEST_CB&&self.__SSG_MANIFEST_CB()
